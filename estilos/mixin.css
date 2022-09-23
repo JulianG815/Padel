@@ -1,0 +1,55 @@
+.sectionAle {
+  background-color: #34495e;
+  width: 600px;
+  height: 600px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.sectionJuan {
+  background-color: #34495e;
+  width: 600px;
+  height: 600px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.sectionPaco {
+  background-color: #34495e;
+  width: 600px;
+  height: 610px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.sectionFran {
+  background-color: #34495e;
+  width: 600px;
+  height: 650px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.sectionMartin {
+  background-color: #34495e;
+  width: 600px;
+  height: 550px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.calendar {
+  background-color: #34495e;
+  width: 40%;
+  height: 30%;
+  margin-top: 5px;
+  padding: 10px;
+  width: 621px;
+  height: 301px;
+  margin-top: 200px;
+  margin-bottom: 200px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}/*# sourceMappingURL=mixin.css.map */
